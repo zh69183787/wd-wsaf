@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wsaf-icp"
+  id="myeclipse.1421975809886"
+  context-root="/wsaf-icp"
+  j2ee-spec="6.0"
+  archive="wsaf-icp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weblogic-web-app>
+<context-root>/ias</context-root>
+<jsp-descriptor>
+ 	<keepgenerated>true</keepgenerated>
+   	<page-check-seconds>0</page-check-seconds>
+</jsp-descriptor>
+<container-descriptor>
+<prefer-web-inf-classes>true</prefer-web-inf-classes>
+</container-descriptor>
+</weblogic-web-app> 
